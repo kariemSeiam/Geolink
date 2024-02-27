@@ -53,9 +53,9 @@ To present the Geolink API Documentation in a clean and simple preview, I'll pro
       "duration_seconds": 7194,
       "duration_text": "ساعتان (٢)",
       "waypoints": [
-        { "latitude": 40.7128, "longitude": -74.0060 },
-        { "latitude": 34.0522, "longitude": -118.2437 },
-        { "latitude": 37.7749, "longitude": -122.4194 }
+        { "lat": 40.7128, "lng": -74.0060 },
+        { "lat": 34.0522, "lng": -118.2437 },
+        { "lat": 37.7749, "lng": -122.4194 }
       ]
     },
     // Additional routes...
