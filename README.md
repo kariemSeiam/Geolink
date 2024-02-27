@@ -71,7 +71,7 @@ To present the Geolink API Documentation in a clean and simple preview, I'll pro
 **Description**: Search for places using text queries.
 
 **Sample Request Parameters**:
-- `query`: "restaurants near me"
+- `query`: "Dubai"
 - `latitude`: 30.453170461154837
 - `longitude`: 31.593056962793902
 - `language` (optional): ar
@@ -81,15 +81,35 @@ To present the Geolink API Documentation in a clean and simple preview, I'll pro
 **Sample Response**:
 ```json
 {
-  "results": [
+  "data": [
     {
-      "address": "",
-      "sub_address": "short_address",
-      "latitude": "latitude_value",
-      "longitude": "longitude_value"
+      "short_address": "Dubai",
+      "long_address": "Dubai - United Arab Emirates",
+      "latitude": 25.2048493,
+      "longitude": 55.2707828
+    },
+    {
+      "short_address": "Dubai Mall",
+      "long_address": "Dubai - United Arab Emirates",
+      "latitude": 25.1972295,
+      "longitude": 55.279747
+    },
+    {
+      "short_address": "Dubai Airport Terminal 2 Arrivals",
+      "long_address": "Dubai - United Arab Emirates",
+      "latitude": 25.2655612,
+      "longitude": 55.3581299
+    },
+    {
+      "short_address": "Dubai Creek",
+      "long_address": "Dubai - United Arab Emirates",
+      "latitude": 25.2344977,
+      "longitude": 55.3198875
     }
-  ]
+  ],
+  "success": true
 }
+
 ```
 
 ---
