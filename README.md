@@ -17,7 +17,7 @@ Get started with Geolink APIs effortlessly:
   
 3. **Receive API Keys**: Upon request, receive your API keys promptly to unlock the power of Geolink services.
     - **API Field**: Use the following API endpoint for accessing Geolink services:
-      - [Geolink API Endpoint : https://geolink.pythonanywhere.com/](https://geolink.pythonanywhere.com/)
+      - **Geolink API Endpoint** : [https://geolink.pythonanywhere.com/](https://geolink.pythonanywhere.com/)
       - **Key**: f809163a-93cd-4907-945c-0b54b536addd
      
 ---
