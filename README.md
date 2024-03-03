@@ -19,7 +19,7 @@ Get started with Geolink APIs effortlessly:
     - **API Field**: Use the following API endpoint for accessing Geolink services:
       - **Geolink API Endpoint** : [https://geolink.pythonanywhere.com/](https://geolink.pythonanywhere.com/)
       - **Key**: f809163a-93cd-4907-945c-0b54b536addd
-     
+
 ---
 
 ## :computer: API Endpoints
@@ -167,17 +167,6 @@ To present the Geolink API Documentation in a clean and simple preview, I'll pro
 
 ---
 
-## :moneybag: Pricing
+## :gift: Free Access with API Key
 
-| API | Price |
-| --- | --- |
-| Search API | 0.05 EGP per request |
-| Geocoding API | 0.05 EGP per request |
-| Direction API | 0.10 EGP per request |
-
----
-
-## :gift: Free Trial
-
-Explore Geolink with confidence using our complimentary trial worth **3000 EGP**! Contact us now to claim your trial and elevate your applications with powerful geolocation capabilities.
-
+Geolink offers free access to its APIs! Contact us to get your API key and start using our services without any cost.
