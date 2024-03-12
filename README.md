@@ -22,7 +22,7 @@ To present the Geolink API Documentation in a clean and simple preview, I'll pro
 
 ### Direction API
 
-**Endpoint**: `/direction`  
+**Endpoint**: `/directions`  
 **Description**: Get accurate directions between locations.
 
 **Sample Request Parameters**:
