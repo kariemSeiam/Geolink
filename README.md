@@ -143,9 +143,7 @@ Explore the capabilities of Geolink APIs:
 **Sample Request Parameters**:
 - `latitude`: 25.2048493
 - `longitude`: 55.2707828
-- `language` (optional
-
-): ar
+- `language` (optional): ar
 - `country` (optional): eg
 - `key`: YOUR_API_KEY
 
