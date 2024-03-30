@@ -158,4 +158,4 @@ To present the Geolink API Documentation in a clean and simple preview, I'll pro
 ---
 
 ### :gift: Free Access with API Key
-Geolink offers free access to its APIs! Create a new account today and receive an automatic credit of 3000 EGP to get started with our services. Contact us to get your API key and begin leveraging our powerful geolocation functionalities at no cost.
+Geolink offers free access to its APIs! Create a new account today and receive an automatic credit of 3000 EGP to get started with our services.
