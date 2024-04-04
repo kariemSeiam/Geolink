@@ -93,7 +93,7 @@ Explore the capabilities of Geolink APIs:
 
 | Endpoint         | Price per 1000 Requests (EGP) |
 |------------------|-------------------------------|
-| Text Search API  | 100                           |
+| Text Search API  | 125                           |
 
 **Example**: [Test Text Search API](https://geolink.pythonanywhere.com/text_search?query=Dubai&latitude=30.453170461154837&longitude=31.593056962793902&key=YOUR_API_KEY)
 > Remember to replace YOUR_API_KEY with your actual API key
