@@ -56,7 +56,7 @@ Explore the capabilities of Geolink APIs:
 |------------------|-------------------------------|
 | Direction API    | 125                           |
 
-**Example**: [Test Direction API](https://geolink.pythonanywhere.com/directions?origin_latitude=31.421574335427&origin_longitude=31.556760706007&destination_latitude=30.417184191911&destination_longitude=31.556413024664&key=YOUR_API_KEY)
+**Example**: [Test Direction API](https://geolink.onrender.com/directions?origin_latitude=31.421574335427&origin_longitude=31.556760706007&destination_latitude=30.417184191911&destination_longitude=31.556413024664&key=YOUR_API_KEY)
 > Remember to replace YOUR_API_KEY with your actual API key
 
 ---
@@ -95,7 +95,7 @@ Explore the capabilities of Geolink APIs:
 |------------------|-------------------------------|
 | Text Search API  | 125                           |
 
-**Example**: [Test Text Search API](https://geolink.pythonanywhere.com/text_search?query=Dubai&latitude=30.453170461154837&longitude=31.593056962793902&key=YOUR_API_KEY)
+**Example**: [Test Text Search API](https://geolink.onrender.com/text_search?query=Dubai&latitude=30.453170461154837&longitude=31.593056962793902&key=YOUR_API_KEY)
 > Remember to replace YOUR_API_KEY with your actual API key
 
 ---
@@ -130,7 +130,7 @@ Explore the capabilities of Geolink APIs:
 |------------------|-------------------------------|
 | Geocode API      | 50                            |
 
-**Example**: [Test Geocode API](https://geolink.pythonanywhere.com/geocode?query=Dubai&key=YOUR_API_KEY)
+**Example**: [Test Geocode API](https://geolink.onrender.com/geocode?query=Dubai&key=YOUR_API_KEY)
 > Remember to replace YOUR_API_KEY with your actual API key
 
 ---
@@ -164,7 +164,7 @@ Explore the capabilities of Geolink APIs:
 |---------------------|-------------------------------|
 | Reverse Geocode API | 50                            |
 
-**Example**: [Test Reverse Geocode API](https://geolink.pythonanywhere.com/reverse_geocode?latitude=25.2048493&longitude=55.2707828&key=YOUR_API_KEY)
+**Example**: [Test Reverse Geocode API](https://geolink.onrender.com/reverse_geocode?latitude=25.2048493&longitude=55.2707828&key=YOUR_API_KEY)
 > Remember to replace YOUR_API_KEY with your actual API key
 
 ---
