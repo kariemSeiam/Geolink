@@ -94,7 +94,7 @@ GET /text_search?query=Eiffel&latitude=48.856613&longitude=2.352222&key=YOUR_API
 }
 ```
 
-> **Test it**: [Try Text Search API](https://geolink.onrender.com/text_search?query=Eiffel+Tower&latitude=48.856613&longitude=2.352222&country=us&language=en&key=rapidapix)
+> **Test it**: [Try Text Search API](https://geolink.onrender.com/text_search?query=Eiffel&latitude=48.856613&longitude=2.352222&country=us&language=en&key=rapidapix)
 
 ---
 
