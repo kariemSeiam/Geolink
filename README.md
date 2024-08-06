@@ -57,7 +57,7 @@ GET /directions?origin_latitude=40.712776&origin_longitude=-74.005974&destinatio
 }
 ```
 
-> **Test it**: [Try Directions API](https://geolink.onrender.com/directions?origin_latitude=48.858613&origin_longitude=2.284694&destination_latitude=48.8583701&destination_longitude=2.2944813&country=us&language=en&key=rapidapix)
+> **Test it**: [Try Directions API](https://geolink.onrender.com/directions?origin_latitude=48.858613&origin_longitude=2.284694&destination_latitude=48.8583701&destination_longitude=2.2944813&country=us&language=en&key=YOUR_API_KEY)
 
 ---
 
@@ -94,7 +94,7 @@ GET /text_search?query=Eiffel&latitude=48.856613&longitude=2.352222&key=YOUR_API
 }
 ```
 
-> **Test it**: [Try Text Search API](https://geolink.onrender.com/text_search?query=Eiffel&latitude=48.856613&longitude=2.352222&country=us&language=en&key=rapidapix)
+> **Test it**: [Try Text Search API](https://geolink.onrender.com/text_search?query=Eiffel&latitude=48.856613&longitude=2.352222&country=us&language=en&key=YOUR_API_KEY)
 
 ---
 
@@ -127,7 +127,7 @@ GET /geocode?query=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=YOUR_API_KEY
 }
 ```
 
-> **Test it**: [Try Geocode API](https://geolink.onrender.com/geocode?query=1600+Amphitheatre+Parkway,+Mountain+View,+CA&country=us&language=en&key=rapidapix)
+> **Test it**: [Try Geocode API](https://geolink.onrender.com/geocode?query=1600+Amphitheatre+Parkway,+Mountain+View,+CA&country=us&language=en&key=YOUR_API_KEY)
 
 ---
 
@@ -159,7 +159,7 @@ GET /reverse_geocode?latitude=37.4224764&longitude=-122.0842499&key=YOUR_API_KEY
 }
 ```
 
-> **Test it**: [Try Reverse Geocode API](https://geolink.onrender.com/reverse_geocode?latitude=37.4224764&longitude=-122.0842499&country=us&language=en&key=rapidapix)
+> **Test it**: [Try Reverse Geocode API](https://geolink.onrender.com/reverse_geocode?latitude=37.4224764&longitude=-122.0842499&country=us&language=en&key=YOUR_API_KEY)
 
 ---
 
