@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="assets/hero.svg" alt="GeoLink — a location, found">
-
 # GeoLink
 
 **Location services made simple.**
